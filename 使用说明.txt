@@ -1,0 +1,2 @@
+操作前请修改NodeMark.mark filed值
+运行Sor前要一次运行成功
