@@ -1,11 +1,17 @@
+/Log/
+/a.jar
+/a.txt
 /bean/
 /charts/
+/config/
 /control/
 /core/
 /etl/
 /gui/
+/image/
 /jfreechart/
 /lib/
+/logger/
 /model/
 /pool/
 /processlist/
@@ -13,4 +19,4 @@
 /schema/
 /servervariables/
 /test/
-/a/
+/dsd/
